@@ -1,4 +1,4 @@
-> [!IMPORTANT]
+> [!IMPORTANTt]
 >
 > 1. [https://api-aniwatch.onrender.com](https://api-aniwatch.onrender.com/) ist nur zur Demonstration der API gedacht und verfügt über eine Rate-Begrenzung, um den Bandbreitenverbrauch zu minimieren. Es wird empfohlen, eine eigene Instanz für den persönlichen Gebrauch zu implementieren, indem Sie die API entsprechend Ihren Bedürfnissen anpassen.
 > 2. Diese API ist lediglich eine inoffizielle API für [aniworld.to](https://aniworld.to) und steht in keiner anderen Weise offiziell mit dieser in Verbindung.
